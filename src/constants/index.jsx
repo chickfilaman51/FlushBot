@@ -2,9 +2,9 @@ export const features = [
   {
     id: "0",
     icon: "/images/feature-1.png",
-    caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    caption: "Fast Flushing",
+    title: "A New Flushing Experience",
+    text: "With FlushBot, flushing becomes more than just a simple button press. Our innovative FlushSync™ technology learns your habits, adjusts flush velocity, and predicts your next visit. It's like having a smart assistant for your plumbing. Additionally, our EcoFlush™ uses the moon's gravitational pull to optimize water usage by 0.01%, making every flush count.",
     button: {
       icon: "/images/magictouch.svg",
       title: "Watch the demo",
@@ -14,8 +14,8 @@ export const features = [
     id: "1",
     icon: "/images/feature-2.png",
     caption: "Secure & trustworthy",
-    title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    title: "AI That Helps you Flush Smarter",
+    text: "Our patented AI model 'FlushGPT' is trained on millions of individual flushes to ensure that every flush is optimized to perfection. It will answer you every inquiry and question about how and when to flush. And with out verification system, you can trust that your flush data is secure and private.",
     button: {
       icon: "/images/docs.svg",
       title: "Read the docs",
@@ -27,22 +27,22 @@ export const details = [
   {
     id: "0",
     icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    title: "1 Gallon of Water Saved Globally",
   },
   {
     id: "1",
     icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    title: "24/7 Support for Flushing Emergencies",
   },
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    title: "Powered by FlushGPT Next Gen AI",
   },
   {
     id: "3",
     icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
+    title: "Up to 1 Flush Per Day",
   },
 ];
 
