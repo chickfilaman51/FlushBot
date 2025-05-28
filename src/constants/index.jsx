@@ -149,34 +149,34 @@ export const testimonials = [
   {
     id: "0",
     name: "Jessica Saunders",
-    role: "Globalnomads",
+    role: "Proffesional Flusher",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "FlushBot changed my life! I never knew flushing could be this efficient. Now, I can flush with confidence, knowing my toilet is always ready.",
   },
   {
     id: "1",
     name: "Mark Erixon",
-    role: "Vid capital intl",
+    role: "Flushing Team Lead",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+      "I was skeptical at first, but now I can't imagine my toilet experience without it. It's that impactful.",
   },
   {
     id: "2",
     name: "Melanie Hurst",
-    role: "Cyberleap",
+    role: "AI Enthusiast",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+      "I can't believe how much time I've saved with FlushBot! My boss is impressed on how I'm always a few seconds earlier to the meeting now.",
   },
   {
     id: "3",
     name: "Alicia Barker",
-    role: "Cyberleap",
+    role: "Flushing Expert",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+      "FlushBot is a game changer for my bathroom cleanliness! Before, my family would always go to the same restroom, but since flushing is limited with FlushBot, my kids now have to find a public restroom to flush. ",
   },
 
 ];
