@@ -14,7 +14,7 @@ const Hero = () => {
               FlushBot 
             </h1>
             <p className="max-w-440 mb-14 body-1 max-md:mb-10">
-              The first AI-powered toilet bot designed to optimize the flushing experience for everyone.
+              The first AI-powered toilet designed to optimize the flushing experience for everyone.
             </p>
             <LinkScroll to="features" offset={-100} spy smooth>
               <Button icon="/images/zap.svg">Try it now</Button>

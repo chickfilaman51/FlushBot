@@ -4,7 +4,7 @@ export const features = [
     icon: "/images/feature-1.png",
     caption: "Fast Flushing",
     title: "A New Flushing Experience",
-    text: "With FlushBot, flushing becomes more than just a simple button press. Our innovative FlushSync™ technology learns your habits, adjusts flush velocity, and predicts your next visit. It's like having a smart assistant for your plumbing. Additionally, our EcoFlush™ uses the moon's gravitational pull to optimize water usage by 0.01%, making every flush count.",
+    text: "With the FlushBot toilet, flushing becomes more than just a simple button press. Our innovative FlushSync™ technology learns your habits, adjusts flush velocity, and predicts your next visit. It's like having a smart assistant for your plumbing. Additionally, our EcoFlush™ uses the moon's gravitational pull to optimize water usage by 0.01%, making every flush count.",
     button: {
       icon: "/images/magictouch.svg",
       title: "Watch the demo",
@@ -42,70 +42,58 @@ export const details = [
   {
     id: "3",
     icon: "/images/detail-4.png",
-    title: "Up to 3 Flushes Per Day",
+    title: "Up to 5 Flushes Per Day",
   },
 ];
 
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "How much does the FlushBot toilet cost?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "We believe in making flushing accessible to everyone. The FlushBot toilet is priced at $49,999, and the subscription is sold seperately.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "Can I integrate FlushBot with other platforms?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "FlushGPT seamlessly integrates with Slack, Notion, and your smart fridge. Never miss a your daily flush with your coworkers again!",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "How often do you add new features?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "We push weekly updates using agile devops pipelines to bring you bleeding-edge flushing capabilities. Coming soon: AutoFlush NFTs and Emotional Flush Intelligence.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "Do you have corporate plans?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes! FlushGPT Enterprise offers centralized restroom control, team-based flush history, and quarterly water use analytics. Optional motivational flush sounds included.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "What happens when I’m out of flush storage?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Your FlushBot will notify you when you're running low on storage, and you will not be able to flush until you upgrade your plan. We offer flexible storage plans to ensure you never run out of flushes.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "Do you offer training for individuals and teams?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Absolutely. Our 3-hour FlushU™ certification course includes modules in AI Ethics, Latency Mitigation, and Team-Based Flushing.",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
+    question: "I’m locked out of my toilet. What do I do?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "First, take a deep breath. Then contact FlushSupport™ where one of our GPT-based agents will ask you security questions about your past bowel movements.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "How does FlushBot work?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
-  },
-  {
-    id: "8",
-    question: "Do you offer training for individuals and teams?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
-  },
-  {
-    id: "9",
-    question: "I’m locked out of my account what do I do?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "FlushBot uses advanced AI algorithms to analyze your flushing patterns and optimize water usage using the lunar movements. It learns from each flush to provide a personalized experience, ensuring maximum efficiency.",
   },
 ];
 
@@ -113,8 +101,8 @@ export const plans = [
   {
     id: "0",
     title: "Basic",
-    priceMonthly: 75,
-    priceYearly: 64,
+    priceMonthly: 130,
+    priceYearly: 121,
     caption: "Best for small flushers",
     features: [
       "10MB Flush storage",
@@ -128,8 +116,8 @@ export const plans = [
   {
     id: "1",
     title: "FlushPRO",
-    priceMonthly: 155,
-    priceYearly: 142,
+    priceMonthly: 205,
+    priceYearly: 190,
     caption: "Most popular plan",
     features: [
       "All Basic features",

@@ -16,6 +16,9 @@ const Pricing = () => {
             <h3 className="h3 max-lg:h4 max-md:h5 z-3 relative mx-auto mb-14 max-w-lg text-center text-p4 max-md:mb-11 max-sm:max-w-sm">
               Flexible pricing for flushes of all sizes
             </h3>
+            <h3 className="h6 max-lg:h4 max-md:h5 z-3 relative mx-auto mb-14 max-w-lg text-center text-p5 max-md:mb-11 max-sm:max-w-sm">
+              Along with the toilet, we require a monthly or annual subscription to keep the toilet and flushing experience running smoothly.
+            </h3>
 
             <div className="relative z-4 mx-auto flex w-[375px] rounded-3xl border-[3px] border-s4/25 bg-s1/50 p-2 backdrop-blur-[6px] max-md:w-[310px]">
               <button
