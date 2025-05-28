@@ -178,22 +178,7 @@ export const testimonials = [
     comment:
       "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
   },
-  {
-    id: "4",
-    name: "Becky Snider",
-    role: "Floclips",
-    avatarUrl: "/images/testimonials/becky-snider.png",
-    comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
-  },
-  {
-    id: "5",
-    name: "Jim Bradley",
-    role: "Vid capital intl",
-    avatarUrl: "/images/testimonials/jim-bradley.png",
-    comment:
-      "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
-  },
+
 ];
 
 export const logos = [

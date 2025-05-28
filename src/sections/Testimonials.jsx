@@ -1,11 +1,12 @@
 import { testimonials } from "../constants/index.jsx";
 import TestimonialItem from "../components/TestimonialItem.jsx";
-
+import { Element } from "react-scroll";
 const Testimonials = () => {
   const halfLength = Math.floor(testimonials.length / 2);
 
   return (
     <section className="relative z-2 py-24 md:py-28 lg:py-40">
+      <Element name="testimonials" className="relative z-2">
       <div className="container block lg:flex">
         <div className="testimonials_head-res relative z-2 mr-20 flex-300">
           <p className="caption mb-5 max-md:mb-2.5">Wall of Love</p>
@@ -34,6 +35,7 @@ const Testimonials = () => {
           </div>
         </div>
       </div>
+      </Element>
     </section>
   );
 };
