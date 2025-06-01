@@ -15,7 +15,7 @@ export const features = [
     icon: "/images/feature-2.png",
     caption: "Secure & trustworthy",
     title: "AI That Helps you Flush Smarter",
-    text: "Our patented AI model 'FlushGPT' is trained on millions of individual flushes to ensure that every flush is optimized to perfection. It will answer you every inquiry and question about how and when to flush. And with out verification system, you can trust that your flush data is secure and private.",
+    text: "Our patented AI model 'FlushGPT' is trained on millions of individual flushes to ensure that every flush is optimized to perfection. It will answer you every inquiry and question about how and when to flush. And with our verification system, you can trust that your flush data is secure and private.",
     button: {
       icon: "/images/docs.svg",
       title: "Read the docs",
