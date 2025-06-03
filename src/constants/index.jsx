@@ -4,7 +4,7 @@ export const features = [
     icon: "/images/feature-1.png",
     caption: "Fast Flushing",
     title: "A New Flushing Experience",
-    text: "With the FlushBot toilet, flushing becomes more than just a simple button press. Our innovative FlushSync™ technology learns your habits, adjusts flush velocity, and predicts your next visit. It's like having a smart assistant for your plumbing. Additionally, our EcoFlush™ uses the moon's gravitational pull to optimize water usage by 0.01%, making every flush count.",
+    text: "With the FlushBot toilet, flushing becomes more than just a simple button press. Our innovative technology is able to learn your habits, personalize your flushes, and even predict your next visit! It's like having a smart and handy assistant for your toilet needs. Additionally, our EcoFlush™ technology uses the moon's gravitational pull to optimize water usage by 0.01%, making every flush count.",
     button: {
       icon: "/images/magictouch.svg",
       title: "Watch the demo",
@@ -57,13 +57,13 @@ export const faq = [
     id: "1",
     question: "Can I integrate FlushBot with other platforms?",
     answer:
-      "FlushGPT seamlessly integrates with Slack, Notion, and your smart fridge. Never miss a your daily flush with your coworkers again!",
+      "FlushGPT seamlessly integrates with Slack, Notion, and your smart fridge. Never miss your daily flush with your coworkers again!",
   },
   {
     id: "2",
     question: "How often do you add new features?",
     answer:
-      "We push weekly updates using agile devops pipelines to bring you bleeding-edge flushing capabilities. Coming soon: AutoFlush NFTs and Emotional Flush Intelligence.",
+      "We push weekly updates in order to bring about bleeding-edge flushing capabilities. Coming soon: Emotional Flush Intelligence.",
   },
   {
     id: "3",
@@ -81,7 +81,7 @@ export const faq = [
     id: "5",
     question: "Do you offer training for individuals and teams?",
     answer:
-      "Absolutely. Our 3-hour FlushU™ certification course includes modules in AI Ethics, Latency Mitigation, and Team-Based Flushing.",
+      "Absolutely. Our 3-hour FlushU™ certification course includes modules in AI Ethics and Team-Based Flushing.",
   },
   {
     id: "6",
